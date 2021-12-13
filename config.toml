@@ -18,6 +18,3 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS"]
     [[menu.main]]
     name = "Kontakt"
     url = "/kontakt"    
-    [[menu.main]]
-    name = "FAQ"
-    url = "/faq"    
