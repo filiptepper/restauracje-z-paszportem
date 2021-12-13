@@ -1,0 +1,23 @@
+baseURL = "https://zpaszportem.pl/"
+languageCode = "pl-PL"
+title = "Z Paszportem"
+theme = "blank"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      linkify = false      
+
+[permalinks]
+    "/" = "/index"
+
+[menu]
+    [[menu.main]]
+    name = "Kontakt"
+    url = "/kontakt"    
+    [[menu.main]]
+    name = "FAQ"
+    url = "/faq"    
