@@ -1,4 +1,5 @@
 ---
+title: "Z paszportem.pl"
 ---
 <div class="container mx-auto">
   <div class="grid grid-cols-2 gap-6 p-2">
@@ -30,7 +31,7 @@ var iconRed = L.icon({
     iconUrl: 'icon-red.png',
     iconSize: [32, 32],
     iconAnchor: [32, 32],
-    popupAnchor: [0, 0],
+    popupAnchor: [-16, -32],
 });
 
 var iconBlue = L.icon({
