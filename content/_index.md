@@ -1,3 +1,22 @@
 ---
 ---
+<div class="container mx-auto">
+  <div class="grid grid-cols-2 gap-6 p-2">
+    <div class="flex justify-center rounded-xl p-2">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="rgb(165, 39, 20)">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+      </svg>
+      tylko z paszportem
+    </div>
+    <div class="flex justify-center rounded-xl p-2">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="rgb(2, 136, 209)">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+      </svg>
+      z weryfikacją limitów
+    </div>
+  </div>
+</div>
+
 <iframe style="position:relative; border:none;" src="https://www.google.com/maps/d/embed?mid=1kBJNpxaA6rK6RDablN-5D8l4ZSOdDoKA&ehbc=2E312F" class="flex flex-grow"></iframe>

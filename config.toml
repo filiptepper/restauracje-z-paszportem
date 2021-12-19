@@ -1,6 +1,6 @@
 baseURL = "https://zpaszportem.pl/"
 languageCode = "pl-PL"
-title = "Z Paszportem"
+title = "Z Paszportem.pl"
 theme = "blank"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS"]
 
@@ -16,5 +16,6 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS"]
 
 [menu]
     [[menu.main]]
-    name = "Kontakt"
-    url = "/kontakt"    
+    name = "O stronie"
+    url = "/o-stronie"
+    weight = 1
