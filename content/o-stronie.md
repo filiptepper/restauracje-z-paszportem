@@ -11,3 +11,7 @@ Strona powstała by łatwo znaleźć miejsca, w których można w bezpieczny spo
 <h3 class="text-lg font-bold p-3">Jak dodać nowe miejsca?</h3>
 
 Napisz na <a href="mailto:kontakt@zpaszportem.pl" class="underline text-sky-500">kontakt@zpaszportem.pl</a> i dodaj informację czy dane miejsce jest tylko dla posiadaczy paszportów COVID-19 albo czy weryfikuje paszporty dla zachowania limitów.
+
+<h3 class="text-lg font-bold p-3">Jak usunąć moje miejsce?</h3>
+
+Napisz na <a href="mailto:kontakt@zpaszportem.pl" class="underline text-sky-500">kontakt@zpaszportem.pl</a>.
