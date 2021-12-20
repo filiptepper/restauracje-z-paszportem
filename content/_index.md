@@ -77,8 +77,6 @@ L.marker([52.2232018,
             21.0086021], {icon: iconRed}).addTo(map).bindPopup('SOFRA cafe&restaurant').on('click', function () { this.openPopup();});
 L.marker([52.182329, 
             21.0195804], {icon: iconRed}).addTo(map).bindPopup('Piwna Beczka').on('click', function () { this.openPopup();});
-L.marker([52.2363222, 
-            21.0048556], {icon: iconRed}).addTo(map).bindPopup('Coffeedesk Kawiarnia - Próżna 7').on('click', function () { this.openPopup();});
 L.marker([52.408034, 
             16.9323671], {icon: iconRed}).addTo(map).bindPopup('Brovaria').on('click', function () { this.openPopup();});
 L.marker([54.5145858, 
