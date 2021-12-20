@@ -69,8 +69,6 @@ L.marker([50.66624,
             17.920252], {icon: iconRed}).addTo(map).bindPopup('Ceska hospoda "U Czechofila"').on('click', function () { this.openPopup();});
 L.marker([53.1249411, 
             23.1541319], {icon: iconRed}).addTo(map).bindPopup('Osteria Wino i smak').on('click', function () { this.openPopup();});
-L.marker([52.2360819, 
-            21.011466], {icon: iconRed}).addTo(map).bindPopup('AïOLI Cantine Bar Cafe Deli').on('click', function () { this.openPopup();});
 L.marker([52.4103805, 
             16.9028648], {icon: iconRed}).addTo(map).bindPopup('Kim Chi Ken').on('click', function () { this.openPopup();});
 L.marker([52.2232018, 
