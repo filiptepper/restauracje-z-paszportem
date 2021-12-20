@@ -4,6 +4,10 @@ type: "page"
 url: "o-stronie"
 ---
 
+<h3 class="text-lg font-bold p-3">Gdzie jest mapa?</h3>
+
+Mapa jest bezpieczna. Ale Ty jej nie zobaczysz.
+
 <h3 class="text-lg font-bold p-3">Dlaczego powstała ta strona?</h3>
 
 Strona powstała by łatwo znaleźć miejsca, w których można w bezpieczny sposób spędzić czas. Najbardziej cieszą miejsca, które do wstępu wymagają paszportu COVID-19, ale na mapie znajdą się równie miejsca, które egzekwują limity zgodne z aktualnymi rozporządzeniami.
